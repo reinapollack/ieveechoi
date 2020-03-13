@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choapheiqu.devilzhao.chat/sitemap.xml
